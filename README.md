@@ -86,10 +86,4 @@ We welcome contributions to improve the project. Please follow these steps to co
     ```
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file to better suit your project's specifics and requirements.
